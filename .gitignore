@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+dist/
+build/
+
+# Electron cache
+.cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.temp
